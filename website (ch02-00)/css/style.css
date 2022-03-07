@@ -1,0 +1,84 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+#newsletter{
+    background-color: #00acdf;
+    color: white;
+    border:rgba(0,0,0,0.1) solid 5px;
+}
+#footer{
+    background-color: #ccc;
+    background-image:url(../images/bg-footer.jpg);
+}
+.showcase .button:hover{
+background-color: #00acdf;
+}
+.button:hover{
+    background-color: #d4326d;
+}
+.button{
+    border: 2px solid white;
+    border-radius: 8px;
+}
+#header nav > ul {
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+.showcase{
+    box-shadow: 0 -3px 8px 0 #ccc;
+    background: #f5f5f5;
+}
+#header nav > ul > li{
+    background: white;
+}
+#header{
+    margin: 0 0 2em 0;
+}
+#header .logo{
+    margin: 2.4em 0;
+}
+#header nav{
+    margin-top: 2em;
+}
+#content{
+    margin: 0 auto;
+}
+.container{
+    max-width: 920px;
+    margin: 0 auto;
+}
+.button{
+    margin: 2em auto 1em;
+}
+aside{
+    margin: 0 0 2em 0;
+}
+aside > h3{
+    margin: 0 0 1.6em 0;
+}
+#content h1 h2 h3 h4{
+    margin: 0 0 1.6em 0;
+}
+#content p ul{
+    margin: 0 0 1.25em 0;
+}
+blockquote cite{
+    margin: 0.625em 0 0 0;
+}
+#newsletter h3{
+    margin: 0 0 1em 0;
+}
+.newsletter label{
+    margin: 1.5em 0 0 0;
+}
+.aside{
+    margin: 0 0 2em 0;
+}
+.post h3{
+    margin: 0 0 1em 0;
+}
+.post img{
+    margin: 0 .5em 0 0;
+}
